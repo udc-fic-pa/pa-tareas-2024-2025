@@ -8,7 +8,7 @@ Para la semana del 24 de febrero, os aconsejamos que hagáis las siguientes tare
 
 - **Tarea 2**: Implementación del caso de uso “buscar productos (FUNC-2)”, así como sus pruebas automatizadas.
 
-- **Tarea 3**: Implementación del caso de uso que permite recuperar todas las categorías, así como sus pruebas automatizadas. Este caso de uso es necesario para generar el desplegables de categoría en el formulario de búsqueda de productos del frontend (de forma similar a `CatalogService.findAllCategories` en pa-shop). En los commits de esta tarea podéis usar la etiqueta FUNC-2, dado que es una tarea necesaria para la implementación de FUNC-2 a nivel global (frontend y backend).
+- **Tarea 3**: Implementación del caso de uso que permite recuperar todas las categorías, así como sus pruebas automatizadas. Este caso de uso es necesario para generar el desplegable de categoría en el formulario de búsqueda de productos del frontend (de forma similar a `CatalogService.findAllCategories` en pa-shop). En los commits de esta tarea podéis usar la etiqueta FUNC-2, dado que es una tarea necesaria para la implementación de FUNC-2 a nivel global (frontend y backend).
 
 - **Tarea 4**: Implementación del caso de uso “ver la información detallada de un producto (FUNC-3)”, así como sus pruebas automatizadas.
 
